@@ -1,0 +1,6 @@
+conn = mysql.connector.connect(
+    host="localhost",
+    user="root",
+    password="564279",  # Mets ton mot de passe
+    database="vente"
+)
